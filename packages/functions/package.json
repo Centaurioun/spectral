@@ -31,7 +31,7 @@
     "ajv-draft-04": "~1.0.0",
     "ajv-errors": "~3.0.0",
     "ajv-formats": "~2.1.0",
-    "lodash": "~4.17.21",
+    "lodash": "~4.17.23",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
